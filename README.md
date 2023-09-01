@@ -11,6 +11,7 @@
   <li> Identifying Top 10 Countries by Movies and TV Shows</li>
 </ul>
 <h1><a name='dashboard'>Dashboard</a></h1>
+<img width="500" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/blob/main/Netflix%20dashboard.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
 <ul><li>Tool used: Power BI</li></ul>
 <p> This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.</p>
