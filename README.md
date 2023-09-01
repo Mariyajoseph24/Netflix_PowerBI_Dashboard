@@ -1,5 +1,7 @@
 # Netflix_PowerBI_Dashboard📺
 <h1><a name="introduction">Introduction</a></h1>
+<img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/assets/91487663/cb76271d-5b3f-44f1-9573-cc32d5efbe25">
+
 <p>Netflix, the global giant in media and video streaming, captivates over 200 million subscribers worldwide with its diverse library of over 8000 movies and TV shows. In this age of digital entertainment, understanding the intricate dynamics of Netflix's content offering is paramount. Our "Netflix  Power BI Dashboard" delves deep into this ever-expanding universe of entertainment, providing valuable insights and illuminating patterns that can steer content strategies and viewer engagement.</p>
 <h1><a name="projectobjectives">Project Objectives💡</a></h1>
 <p>This Power BI project is structured around several key tasks designed to unlock the secrets of Netflix's content ecosystem:</p>
