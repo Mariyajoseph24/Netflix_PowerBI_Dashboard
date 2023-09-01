@@ -1,4 +1,4 @@
-# Netflix_PowerBI_Dashboard📺
+# Netflix PowerBI Dashboard📺
 <img width="300" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/assets/91487663/cb76271d-5b3f-44f1-9573-cc32d5efbe25">
 
 <h1><a name="introduction">Introduction</a></h1>
