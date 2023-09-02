@@ -15,7 +15,7 @@
 <h1><a name='dashboard'>Dashboard</a></h1>
 <img width="900" alt="Coding" src="https://github.com/Mariyajoseph24/Netflix_PowerBI_Dashboard/blob/main/Netflix%20dashboard.png">
 <h1><a name="visualizationtools">Visualization Tools</a></h1>
-<ul><li>Tool used: Power BI</li>
+<ul><li>Tool used🛠️: Power BI</li>
 <li> Data set used: <a href="https://www.kaggle.com/datasets/shivamb/netflix-shows">
          <img src=" Netflix Dataset" alt=""> Netflix Dataset</a></li></ul>
 <p> This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.</p>
