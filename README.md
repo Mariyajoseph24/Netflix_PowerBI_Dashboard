@@ -21,3 +21,7 @@
 <p> This Power BI project leverages a rich palette of visualizations, including bar charts, area charts, tree maps, and donut charts. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.</p>
 <h1><a name="conclusion">Conclusion</a></h1>
 <p>In a world where data-driven decisions are paramount, our Netflix Power BI Dashboard Project empowers content creators, marketers, and decision-makers in the entertainment industry to navigate the Netflix universe effectively. Explore the nuances of content genres, audience preferences, and international contributions while unveiling the hidden gems within Netflix's content repository. Welcome to the era of data-driven entertainment strategy, brought to life through the power of Power BI.</p>
+
+<p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
+  <a href="https://www.linkedin.com/in/mariya-jos/">
+  <img src=" Linkedln | Mariya Joseph" alt=""> Linkedln | Mariya Joseph</a><br>
